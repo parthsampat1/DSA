@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parthsampat1/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/parthsampat1/DSA/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/parthsampat1/DSA/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/parthsampat1/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/parthsampat1/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
