@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parthsampat1/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/parthsampat1/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/parthsampat1/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/parthsampat1/DSA/tree/master/1470-shuffle-the-array) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/parthsampat1/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/parthsampat1/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/parthsampat1/DSA/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthsampat1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -140,4 +143,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthsampat1/DSA/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/parthsampat1/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
